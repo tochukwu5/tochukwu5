@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning fullStack web development(MERN STACK) but good with frontend now
 - 💞️ I’m open for Job (frontend dev) and help
 - 📫 you can reach through <br>
-        portfolio: http://tochukwu5.github.io/david <br>
-        email: tochukwud750@gmail.com  <br>
-        whatsapp: +2347088679581  <br>
-        twitter: https://twitter.com/david45219490 <br>
+        Portfolio: http://tochukwu5.github.io/david <br>
+        Email: tochukwud750@gmail.com  <br>
+        Whatsapp: +2347088679581  <br>
+        Twitter: https://twitter.com/david45219490 <br>
         LinkedIn: https://www.linkedin.com/in/tochukwu-david-287662248
         
 

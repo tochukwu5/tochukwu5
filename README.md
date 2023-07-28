@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and using technologies to solve world's problem
 - 🌱 I’m currently learning fullStack web development(MERN STACK) but good with frontend now
 - 💞️ I’m open for Job (frontend dev) and help
-- 📫 you can reach through <br>
+- 📫 you can reach me through <br>
         Portfolio: http://www.daviwork.com <br>
         Email: tochukwud750@gmail.com  <br>
         Whatsapp: +2347088679581  <br>

@@ -6,7 +6,7 @@
         Portfolio: https://tochi-one.vercel.app <br>
         Email: tochukwud750@gmail.com  <br>
         Whatsapp: +2347088679581  <br>
-        LinkedIn: https://www.linkedin.com/in/tochukwu-david-287662248
+        LinkedIn: https://www.linkedin.com/in/david-emeremgini-287662248/
         
 
 <!---

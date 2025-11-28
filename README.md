@@ -3,7 +3,7 @@
 - 🌱 I’m  a fullStack web developer (MERN STACK)
 - 💞️ I’m open for Job and help
 - 📫 you can reach me through <br>
-        Portfolio: https://tochi-one.vercel.app <br>
+        Portfolio: https://daviwork.vercel.app <br>
         Email: tochukwud750@gmail.com  <br>
         Whatsapp: +2347088679581  <br>
         LinkedIn: https://www.linkedin.com/in/david-emeremgini-287662248/
